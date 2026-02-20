@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1MgsCVFPgLAOT4fHMs5HFPEvT4QtdcjVW
 
 #Python NetworkXProject
-YUNUS_CAN_DUMAN_05240000217
+YUNUS_CAN_DUMAN
 """
 
 import networkx as nx
