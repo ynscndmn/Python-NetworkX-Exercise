@@ -50,4 +50,5 @@ Bu çalışma, Python'daki `NetworkX` kütüphanesini kullanarak çizge (graph) 
   $$\text{Beklenen Süre} = \frac{\text{Orijinal Süre}}{\text{Hedefin Cevap Verme Olasılığı}}$$
 
 ---
-
+**Author / Hazırlayan:** Yunus Can Duman  
+**Date / Tarih:** 19.02.2026
